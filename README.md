@@ -8,4 +8,6 @@ borrar registros, reinsertar registros eliminados, mostrar promedio de año de e
 Herramientas de Gestión: pgAdmin4
 Lenguaje: SQL.
 
+---
+
 Esta actividad corresponde al bootcamp de Desarrollo Web Fullstack JavaScript Trainee
